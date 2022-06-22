@@ -3,7 +3,7 @@
 This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
 Find the project requirements here: [RSS feed reader website](https://www.codementor.io/projects/web/rss-feed-reader-website-atx32j280x)
 
-## Tech/framework used
+## Tech / Framework used
 
 Built with PHP \ HTML5 \ CSS3
 
